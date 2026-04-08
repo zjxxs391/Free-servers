@@ -35,11 +35,11 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@89.46.239.231:990#Romania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#United+Kingdom
-trojan://humanity@208.103.161.110:443?allowInsecure=1&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=%2Fassignment#United+States
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@149.33.3.246:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#United+States
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@185.177.238.87:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#Poland
+vmess://eyJhZGQiOiAiMTczLjI0OS4yMDkuMTQ2IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICIzOTM1YzJkYy1kYmIwLTQzZjctYjM2Ny1mZTg5YWJlODdmZGYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMjAwODYsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030#United+Kingdom
+trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls&sni=nl-4.tr202512.com#The+Netherlands
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@5.83.218.19:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#United+Kingdom
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>
