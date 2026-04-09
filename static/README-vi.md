@@ -35,11 +35,11 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
+vmess://eyJhZGQiOiAidjMwLmhkYWNkLmNvbSIsICJhaWQiOiAiMCIsICJob3N0IjogImNkbmZpcmUueGlhb21pc3BlZWQuY29tIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjMwODMwIiwgInBzIjogIklyYW4iLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+vmess://eyJhZGQiOiAiNDUuODkuNTIuMjA3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImlkIjogImFjNGMxMmM1LTQ1ZjItNDM5OC1hNzE4LTk5ODM5NDFlZGUyYiIsICJuZXQiOiAidGNwIiwgInBvcnQiOiAzOTY1MSwgInBzIjogIlRcdTAwZmNya2l5ZSIsICJzY3kiOiAiYXV0byIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#The+Netherlands
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#United+States
-vmess://eyJhZGQiOiAibjE3NTMzNTYzNzguNHU5bWEuaWN1IiwgImFpZCI6ICIwIiwgImZwIjogImNocm9tZSIsICJob3N0IjogIm4xNzUzMzU2Mzc4LjR1OW1hLmljdSIsICJpZCI6ICIzN2IyMDYzOS0wZDZlLTQ2ZjItOWRiNS00NzIyMDFiMTBjZGQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJIb25nIEtvbmciLCAic2N5IjogImF1dG8iLCAic25pIjogIm4xNzUzMzU2Mzc4LjR1OW1hLmljdSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.230.6.242:50099#Taiwan
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@149.33.19.105:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#United+Kingdom
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@160.119.251.210:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#South+Africa
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
