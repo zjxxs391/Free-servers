@@ -35,11 +35,10 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZDk3NDMzNjg4ZTdlZmQ1@163.171.206.24:44233#United+States
-trojan://humanity@www.calmlunch.com:443?allowInsecure=1&sni=www.calmlunch.com&type=ws&path=%2Fassignment#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.124:8080#United+Kingdom
+vmess://eyJhZGQiOiAiNDcuOTAuMjQ0LjE1MyIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICI2NWUyYTk4NS1hZDIwLTQ0ODYtYTdlYy1iNjdiMjBlZTU2YWYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzIiwgInBvcnQiOiAiODQ0MyIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@188.126.76.159:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#Sweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#South+Africa
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YTEwNmFmYzMzZWFhMjYx@148.113.139.160:46534#Canada
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

@@ -35,11 +35,11 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.165.231.25:990#%D0%AD%D0%BA%D0%B2%D0%B0%D0%B4%D0%BE%D1%80
-vmess://eyJhZGQiOiAiNDUxZTYyNDItdDcwZjQwLXQ4a2d3OC1qanYyLmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsICJhaWQiOiAyLCAiaG9zdCI6ICI0NTFlNjI0Mi10NzBmNDAtdDhrZ3c4LWpqdjIuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgImlkIjogIjMxNjc2NzI1LWIwZmQtZmVkMi1jODU3LTJkYThjZTVhNmU0ZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4MCwgInBzIjogIlx1MDQxM1x1MDQzZVx1MDQzZFx1MDQzYVx1MDQzZVx1MDQzZFx1MDQzMyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICI0NTFlNjI0Mi10NzBmNDAtdDhrZ3c4LWpqdjIuaGt0LmdvdG9jaGluYXRvd24ubmV0In0=
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.243.216:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%D0%A7%D0%B5%D1%85%D0%B8%D1%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@79.127.200.169:990#%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@149.33.19.105:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%D0%A1%D0%A8%D0%90
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%D0%A1%D0%A8%D0%90
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@130.0.234.160:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>

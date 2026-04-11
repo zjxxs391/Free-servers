@@ -35,11 +35,11 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#Royaume-Uni
-vmess://eyJhZGQiOiAiNS4xODguMTkwLjI1MiIsICJhaWQiOiAiMSIsICJob3N0IjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyMjMyNCIsICJwcyI6ICJUdXJxdWllIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-trojan://413fdb10-a596-4e7c-b081-54243d252894@85.211.192.237:5784?allowInsecure=0&sni=www.baidu.com#Royaume-Uni
-trojan://strong-secret-pass-777@94.131.105.125:4443?sni=#Pays-Bas
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001287h3p.cybervena.com:50099#Ta%C3%AFwan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#Pays-Bas
+vmess://eyJ2IjogIjIiLCAicHMiOiAiSXJhbiIsICJhZGQiOiAidjEyLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODEyIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImRkREZIaGouOTIyOTIyLlNob3AiLCAicGF0aCI6ICIvUmtVVWJxaEE5R0paQlJPakwzUTV2VHltciIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#Cor%C3%A9e+du+Sud
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@bestcf.030101.xyz:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&sni=sni.111000.dynv6.net&type=ws#%C3%89tats+Unis
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>

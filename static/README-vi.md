@@ -35,11 +35,10 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNDcuMjUwLjQ1LjIzNCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiODAwMzliNGQtYmFjMC00Zjg5LTgyYzctNTRmYWQzYjBhMWVhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAicG9ydCI6IDg2MTMsICJwcyI6ICJNYWxheXNpYSIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#United+Kingdom
-trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#Switzerland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTE2MTUwZWZlZGQyZDE3@154.205.134.155:24851#Seychelles
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODMyMmU0YjkzNDg3MGI2@154.26.156.99:47386#Australia
+trojan://humanity@v3.dabache.top:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#United+States
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@bestcf.030101.xyz:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&sni=sni.111000.dynv6.net&type=ws#United+States
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiMjE2LjEwNi4xODMuMzUiLCAicG9ydCI6ICIyMjMyNCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgImFpZCI6ICIxIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiIiwgInRscyI6ICIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0#Portugal
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

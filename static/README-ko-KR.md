@@ -35,11 +35,10 @@
  <h4>노드 목록: (여기에는 일부 노드만 표시됩니다. 모든 노드를 보려면 앱을 다운로드하세요.)</h4>
     
 ```
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@145.249.115.115:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#Russia
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#France
-vmess://eyJ2IjogIjIiLCAicHMiOiAiSXJhbiIsICJhZGQiOiAiMTUxLjI0Mi4xODAuOTEiLCAicG9ydCI6ICIzMDgxMiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiIiwgInRscyI6ICIifQ==
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@149.33.19.105:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#United+States
-vmess://eyJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgImFkZCI6ICJ2MTAuaGRhY2QuY29tIiwgInBvcnQiOiAiMzA4MDciLCAidHlwZSI6ICJub25lIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogInYxMC5oZGFjZC5jb20iLCAidGxzIjogIiJ9
+trojan://hCjWaBe5vTkewfiljOL=9FS9DYg0c09c.t@81.29.149.240:18390?allowInsecure=0&sni=osl9.solidly.click#The+Netherlands
+trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F%3FBIA_TELEGRAM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29#Spain
+vmess://eyJhZGQiOiAiMTYyLjE1OS4xNTIuNCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODQ0MywgImlkIjogIjE5ZTUyYmY0LTFiN2QtNGJkNC1hZTY2LTZjYTAyNDQzNmMxNyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJmcnN5cy5mbC1kbC5jb20iLCAicGF0aCI6ICIvZ2J0IiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIEtpbmdkb20iLCAiYWRkIjogIjgyLjE5OC4yNDYuOTciLCAicG9ydCI6ICIxODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogImpvc3MuZ3BqMS53ZWIuaWQiLCAidGxzIjogIiJ9
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>
