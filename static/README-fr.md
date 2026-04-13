@@ -35,11 +35,11 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#Allemagne
-trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F%3FBIA_TELEGRAM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29#Espagne
-trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.20:10369?allowInsecure=1&sni=fra35.chasem2026sud.com#Royaume-Uni
-vmess://eyJhZGQiOiAiMTQ5LjMwLjIzMi4xMDMiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjJjMTgwN2NlLTZhNjMtNDQ1MS05YWRkLWE3NzhkMjUwNzE2MCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInBvcnQiOiAxODM5MywgInBzIjogIlx1MDBjOXRhdHMgVW5pcyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-vmess://eyJhZGQiOiAiNDUuMTUuMTg1LjE3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJjNTAzYTk2YS1hMmY1LTQ4NDctYTMxZi0yMGMxN2VjZjNiZTQiLCAiaW5zZWN1cmUiOiAiMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBvcnQiOiAiODAiLCAicHMiOiAiQnJcdTAwZTlzaWwiLCAic2N5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007134n4g.cybervena.com:50099#Ta%C3%AFwan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#Royaume-Uni
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#Espagne
+vmess://eyJhZGQiOiAibm9kZS11ay5jb25uZWN0c3VpdGUub3JnIiwgImFpZCI6ICIwIiwgImFscG4iOiAiaDIsaHR0cC8xLjEiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiIiwgImlkIjogImM0ZWEyMzkxLTA5NWQtNDA3YS05ZGFiLTg1ZmM3MTA0YjY4MSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjA1MyIsICJwcyI6ICJGcmFuY2UiLCAic2N5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.1.230:990#Mexique
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>

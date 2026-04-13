@@ -35,11 +35,11 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007117fb8.cybervena.com:50099#Taiwan
-vmess://eyJhZGQiOiAiMTUxLjI0Mi4xODAuOTEiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMzA4MTIiLCAicHMiOiAiSXJcdTAwZTMiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.205.146.153:990#Ilhas+Seychelles
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#Cazaquist%C3%A3o
-ss://YWVzLTI1Ni1nY206MTRDTEJhRkJxd3F4Qkp5Ng==@66.94.125.178:80#EUA
+vmess://eyJ2IjogIjIiLCAicHMiOiAiSXJcdTAwZTMiLCAiYWRkIjogInYzNS5oZGFjZC5jb20iLCAicG9ydCI6ICIzMDgzNSIsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAiYWlkIjogMiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJhdXRvIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#Reino+Unido
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.85.33:4674?security=tls&sni=www.nintendogames.net#Jap%C3%A3o
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#Alemanha
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.2.182:990#Bahrain
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
