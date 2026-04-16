@@ -35,10 +35,10 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007147vhp.cybervena.com:50099#Taiwan
-trojan://strong-secret-pass-777@103.231.73.181:4443?security=tls&sni=103.231.73.181#Japan
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWjg3YW1QcGRHN0t1V002MmJLdG0xS0hvb3d1VmpuVjhDS3RxNjUzeW1IY2cyZFBZY1BKZm5hUTYxc3R1QWpyMlppTERhcUg1Nlhwa3hFWXV3RHp6UnJNV2llZWJXR3Q=@185.5.38.111:55988#United+Kingdom
+ss://YWVzLTI1Ni1nY206MTRDTEJhRkJxd3F4Qkp5Ng==@66.94.125.178:80#United+States
+ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#Belgium
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.199:10369?security=tls&sni=fra4.chasem2026sud.com#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaG9sU3R5SEw3RGhyZXdLYnBRYTIw@185.176.221.72:24637#Latvia
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

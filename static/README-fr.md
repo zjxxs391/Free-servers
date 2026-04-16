@@ -35,11 +35,11 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-vmess://eyJhZGQiOiAibm9kZS11ay5jb25uZWN0c3VpdGUub3JnIiwgImFpZCI6ICIwIiwgImFscG4iOiAiaDIsaHR0cC8xLjEiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiIiwgImlkIjogImM0ZWEyMzkxLTA5NWQtNDA3YS05ZGFiLTg1ZmM3MTA0YjY4MSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjA1MyIsICJwcyI6ICJGcmFuY2UiLCAic2N5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-trojan://A4u%5Ep%28_UR%2AF6@irancell.buzzmuzzpanel.online:443?allowInsecure=1&alpn=http%2F1.1&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&sni=027.eLECTROcelLCO-cf-027.WorKerS.Dev&type=ws#%C3%89tats+Unis
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODMyMmU0YjkzNDg3MGI2@154.26.156.99:47386#Australie
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#Espagne
-trojan://strong-secret-pass-777@94.131.105.125:4443?sni=#Pays-Bas
+vmess://eyJhZGQiOiAiNDcuMjQ0LjEyMC4xOTciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjQ1YjgzNTE5LTljNGYtNDA1Mi1hMTFiLTAyZTAxN2I2MzZkNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInBvcnQiOiAzNjcwMywgInBzIjogIkhvbmcgS29uZyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+trojan://413fdb10-a596-4e7c-b081-54243d252894@85.211.192.237:5784?allowInsecure=0&sni=www.baidu.com#Royaume-Uni
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@nbmrcg0034686rw.cybervena.com:50099#Ta%C3%AFwan
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%C3%89tats+Unis
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVkxiRVVFdEJENTlGc1JxY055RWli@203.202.232.78:60299#Inde
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>

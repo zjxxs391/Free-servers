@@ -35,10 +35,10 @@
  <h4>노드 목록: (여기에는 일부 노드만 표시됩니다. 모든 노드를 보려면 앱을 다운로드하세요.)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNjYuMTYzLjExNy41OCIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyMjMyNCIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MWQ2NjU1ZDM2MjVmZDE0@185.244.208.150:11201#Hong+Kong
-trojan://trojan@154.12.53.125:54321?allowInsecure=0&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#Canada
-trojan://BxceQaOe@58.152.25.253:443?sni=#Hong+Kong
+trojan://BxceQaOe@58.152.53.22:443?security=tls&sni=t.me/ripaojiedian#Hong+Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTJlZTliY2M5NTcwMDk1@163.171.148.71:11201#Thailand
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#France
+vmess://eyJhZGQiOiAiMjE2LjEwNi4xODMuMzUiLCAiYWlkIjogIjEiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMjIzMjQiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>

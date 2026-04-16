@@ -35,11 +35,11 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAiYWRkIjogIjk4LjE1OS4xMDguMTMiLCAicG9ydCI6ICIyMjM3OSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMGYxNWUzOGQtM2JkZi00ZGMwLWFlYjQtMDEwODU4MzhkN2IzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiIiwgInRscyI6ICIifQ==
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#Estados+Unidos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWjg3YW1QcGRHN0t1V002MmJLdG0xS0hvb3d1VmpuVjhDS3RxNjUzeW1IY2cyZFBZY1BKZm5hUTYxc3R1QWpyMlppTERhcUg1Nlhwa3hFWXV3RHp6UnJNV2llZWJXR3Q=@mx2.drawnrisha.one:55988#Reino+Unido
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#Reino+Unido
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#Holanda
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#Reino+Unido
+ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#B%C3%A9lgica
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#Alemania
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#Espa%C3%B1a
+vmess://eyJhZGQiOiAiMTYyLjE1OS4xNTIuNCIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDg0NDMsICJpZCI6ICIxOWU1MmJmNC0xYjdkLTRiZDQtYWU2Ni02Y2EwMjQ0MzZjMTciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZnJzeXMuZmwtZGwuY29tIiwgInBhdGgiOiAiL2didCIsICJ0bHMiOiAidGxzIn0=
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>

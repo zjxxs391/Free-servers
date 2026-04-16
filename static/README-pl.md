@@ -35,10 +35,10 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiRnJhbmNlIiwgImFkZCI6ICJub2RlLWRlLmNvbm5lY3RzdWl0ZS5vcmciLCAicG9ydCI6ICIyMDUzIiwgImlkIjogIjkzMDk2NDBlLWQyOTktNDg0YS1hMGU4LWM5Yjk3NWQ5NDgyMiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgInRscyI6ICJ0bHMiLCAiYWxwbiI6ICJoMixodHRwLzEuMSIsICJzbmkiOiAibm9kZS1kZS5jb25uZWN0c3VpdGUub3JnIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjI2ZDhiYjU5M2E1ZmM1@154.205.154.200:11201#Seychelles
-trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#United+Kingdom
+trojan://r137979f@162.159.153.212:2087?host=sheleqaz.emotionreza.workers.dev&path=/&sni=sheleqaz.emotionreza.workers.dev&type=ws#United+States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#South+Korea
+trojan://humanity@104.18.11.110:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030#United+Kingdom
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

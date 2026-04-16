@@ -35,10 +35,10 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.93.173.60:990#Bolivia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.153.21:50099#Taiwan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZDFiYzU0Njg5ZWQ0Yjc1@119.159.245.24:26739#Pakistan
+ss://YWVzLTI1Ni1nY206UXpNME5mdU1ObmdiVm5aSw==@144.126.145.77:443#United+States
+vmess://eyJhZGQiOiAiY2YuMDkwMjI3Lnh5eiIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZ2FsLmRhZ3JhdGUuZXUub3JnIiwgImlkIjogIjI5MGNjNjkxLTNhYzYtNDM4Ny05OGExLTI1YzhlYjhjYTJlYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAic2dhbC5kYWdyYXRlLmV1Lm9yZyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.128.224:50099#Taiwan
+vmess://eyJhZGQiOiAiNDcuMjUwLjE1My4xMzYiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiNDcuMjUwLjE1My4xMzYiLCAiaWQiOiAiNzI0OWMzYmUtODVhZC00NmZiLWFiOTgtYzRhMDdmNGE3MjRkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyNjE4MSIsICJwcyI6ICJNYWxheXNpYSIsICJzY3kiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

@@ -35,11 +35,11 @@
  <h4>ノード リスト: (ここには一部のノードのみが表示されます。すべてのノードを表示するにはアプリをダウンロードしてください)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@87.236.146.32:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%E3%82%A8%E3%82%B9%E3%83%88%E3%83%8B%E3%82%A2%E5%85%B1%E5%92%8C%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vmess://eyJhZGQiOiAiNDcuMjUwLjQ1LjIzNCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzc3ZjQ4ZjUtNGJlMy00NDYxLWI1MmItNDk5OThlN2I4OTdiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAicG9ydCI6IDQzMDYzLCAicHMiOiAiXHUzMGRlXHUzMGVjXHUzMGZjXHUzMGI3XHUzMGEyIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.189:8080#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@38.180.176.115:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQzdhUXY5RHNFTmFWZkt6VFBES1lW@212.192.14.226:41968#%E3%83%AD%E3%82%B7%E3%82%A2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E5%85%B1%E5%92%8C%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>
