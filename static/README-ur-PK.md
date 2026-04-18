@@ -35,11 +35,11 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-vmess://eyJhZGQiOiAiOTQuMjMyLjI0Ny4xNjQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjIyYzM5NmEzLTk1ZGEtNGJlOC1iZWVmLTgzNGQxN2Q3NTc4NCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NDAzMCIsICJwcyI6ICJBdXN0cmFsaWEiLCAic2N5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-trojan://A4u%5Ep%28_UR%2AF6@irancell.buzzmuzzpanel.online:443?allowInsecure=1&alpn=http%2F1.1&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&sni=027.eLECTROcelLCO-cf-027.WorKerS.Dev&type=ws#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZDk3NDMzNjg4ZTdlZmQ1@163.171.206.24:44233#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#United+States
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YmZlZTEzODhlOTYwNTM3@51.89.117.154:11201#United+Kingdom
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#United+States
+vmess://eyJ2IjoiMiIsInBzIjoiXHU3ZjhlXHU1NzBiXHU3YmMwXHU5ZWRlXzYiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTciLCJwb3J0IjoiNDQ1NzkiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6MCwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVFx1MDBmY3JraXllIiwgImFkZCI6ICI0NS44OS41Mi4yMDciLCAicG9ydCI6IDM5NjUxLCAiaWQiOiAiYWM0YzEyYzUtNDVmMi00Mzk4LWE3MTgtOTk4Mzk0MWVkZTJiIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAidGxzIjogIiIsICJhbHBuIjogIiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>

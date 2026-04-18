@@ -35,11 +35,11 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjk3ODA0N2I0N2Y3ZWFi@154.205.154.184:11201#Seychellen
-trojan://humanity@v3.dabache.top:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#USA
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@170.168.102.234:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080#UK
-vmess://eyJhZGQiOiAiMTA3LjE3NS45MS4xMTgiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjFiYjFmOTVmLTc0MjUtNDQ0Mi05M2Y3LThmYzFiZDFhMjAwMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdjJyYXktd2lzcCIsICJwb3J0IjogNDQzLCAicHMiOiAiS2FuYWRhIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#USA
+vmess://eyJhZGQiOiAicHEtaHVuZ2FyeTEuMDl2cG4uY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI3MDNmNzIyYS00YmRmLTRlOWQtOWFmZC1hNjgxZmRmODdjNzQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzLyIsICJwb3J0IjogIjgwIiwgInBzIjogIlBvcnR1Z2FsIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#UK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@nbmrcg0034686rw.cybervena.com:50099#Taiwan
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.54.20.59:8881#Chile
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

@@ -35,11 +35,11 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-trojan://A4u%5Ep%28_UR%2AF6@irancell.buzzmuzzpanel.online:443?allowInsecure=1&alpn=http%2F1.1&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&sni=027.eLECTROcelLCO-cf-027.WorKerS.Dev&type=ws#%C3%89tats+Unis
-trojan://UNWA6USASAb6=uAAZeZMFd+2uKB4.d5KOm@166.88.197.60:26650?security=tls&sni=sea9.firewallcontract.click#%C3%89tats+Unis
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#Royaume-Uni
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.59:990#%C3%89tats+Unis
-vmess://eyJhZGQiOiAiNDcuMjUwLjE1My4xMzYiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiNDcuMjUwLjE1My4xMzYiLCAiaWQiOiAiNzI0OWMzYmUtODVhZC00NmZiLWFiOTgtYzRhMDdmNGE3MjRkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyNjE4MSIsICJwcyI6ICJNYWxhaXNpZSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJ2IjogIjIifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQXVzdHJhbGllIiwgImFkZCI6ICI5NC4yMzIuMjQ3LjE2NSIsICJwb3J0IjogIjQ1NjUzIiwgImlkIjogIjllOTFkMTlhLWM3M2YtNDI3Ni1hZGJjLWIzMzdjMzc0MjU5YyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIjUifQ==
+trojan://trojan@152.53.60.198:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F#Autriche
+trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#%C3%89tats+Unis
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.38.168.58:990#Afrique+du+Sud
+vmess://eyJhZGQiOiAiOTQuMjMyLjI0Ny4xNjQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjIyYzM5NmEzLTk1ZGEtNGJlOC1iZWVmLTgzNGQxN2Q3NTc4NCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NDAzMCIsICJwcyI6ICJBdXN0cmFsaWUiLCAic2N5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>

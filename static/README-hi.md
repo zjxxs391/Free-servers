@@ -35,11 +35,11 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#The+Netherlands
-trojan://humanity@172.64.147.24:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.38.168.58:990#South+Africa
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Njc1Y2JmNjJkNmEzYTRm@57.129.95.45:11201#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.152:8080#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45313#Vietnam
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#Philippines
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#United+Kingdom
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

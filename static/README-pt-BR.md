@@ -35,11 +35,11 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030#Reino+Unido
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGM0NTVjOWYxOWFhM2E1@57.129.94.79:11206#Fran%C3%A7a
-vmess://eyJ2IjoiMiIsInBzIjoid3d3Ljg1bGEuY29t8J+Hq/Cfh7dGUsKyXzI1fDAuMk1CL3N8R1BU4oG6fE5GfFh8W+WOn+eUn3zkvY/lroXmi6jlj7ddIiwiYWRkIjoiMjAwMTpiYzg6MzJkNzozMDI6OjE0IiwicG9ydCI6IjQ0NTc5IiwiaWQiOiI4ZTM0ZTE3MC0xM2FlLTQ4OTItOWQyMC0wNTk2MmFjYzlmODQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsImZwIjoiIiwicGF0aCI6Ii8/QklBX1RFTEVHUkFNQEFaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxP2VkPTI1NjAiLCJob3N0IjoiVEFCUklaLk5FVCJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007117fb8.cybervena.com:50099#Taiwan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#Holanda
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMzAyN2M5MzFhZTA3YmNl@57.129.69.122:27130#Fran%C3%A7a
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.2.182:990#Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#Fran%C3%A7a
+vmess://eyJhZGQiOiAiMGU4Y2I5MGEtdDcwZjQwLXRiZHlqaS1hY2gxLmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsICJhaWQiOiAyLCAiaG9zdCI6ICIwZThjYjkwYS10NzBmNDAtdGJkeWppLWFjaDEuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgImlkIjogImI5Yzk5MDVjLTE2MjctMTFlYy1hMGZjLWYyM2M5MTNjOGQyYiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4MCwgInBzIjogIkhvbmcgS29uZyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICIwZThjYjkwYS10NzBmNDAtdGJkeWppLWFjaDEuaGt0LmdvdG9jaGluYXRvd24ubmV0In0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080#Holanda
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>

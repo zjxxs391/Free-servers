@@ -35,11 +35,11 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@n8mrcg005964vnc.cybervena.com:50099#Taiwan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#Philippines
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjk3ODA0N2I0N2Y3ZWFi@154.205.154.184:11201#Seychelles
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIEtpbmdkb20iLCAiYWRkIjogIjgyLjE5OC4yNDYuNDYiLCAicG9ydCI6ICIxODAiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007147vhp.cybervena.com:50099#Taiwan
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.237:10369?security=tls&sni=fra5.chasem2026sud.com#United+Kingdom
+vmess://eyJhZGQiOiAiNjEuMjQ1LjExLjYwIiwgImhvc3QiOiAiNjEuMjQ1LjExLjYwIiwgImlkIjogImEzZTNhNzEwLTc5ZjgtNGFlMC1iODNjLTYwN2FhYjQwZDE5NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBvcnQiOiA4MCwgInBzIjogIlBoaWxpcHBpbmVzIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1&sni=94.131.105.125#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#United+Kingdom
+trojan://r137979f@162.159.153.212:2087?host=sheleqaz.emotionreza.workers.dev&path=/&sni=sheleqaz.emotionreza.workers.dev&type=ws#United+States
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

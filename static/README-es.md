@@ -35,11 +35,11 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVkxiRVVFdEJENTlGc1JxY055RWli@203.202.232.78:60299#India
-trojan://BxceQaOe@58.152.53.22:443?security=tls&sni=t.me/ripaojiedian#Hong+Kong
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#Estados+Unidos
-trojan://trojan@152.53.200.98:8444?security=tls&sni=jflsjlaf.pages.dev&insecure=0&allowInsecure=0&type=ws&host=jflsjlaf.pages.dev&path=%2F%2F#Austria
-trojan://187dda4498be9ac4f28db939d5940185@160.16.132.38:4674?security=tls&sni=www.nintendogames.net#Jap%C3%B3n
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0#Portugal
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#Francia
+vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVpbm8gVW5pZG8iLCAiYWRkIjogIjgyLjE5OC4yNDYuMjUwIiwgInBvcnQiOiAiMTgwIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAwLCAibmV0IjogInRjcCIsICJ0eXBlIjogImF1dG8iLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiSXJcdTAwZTFuIiwgImFkZCI6ICIxNTEuMjQyLjE4MC45MSIsICJwb3J0IjogIjMwODEyIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
