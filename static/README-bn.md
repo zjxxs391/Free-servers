@@ -35,11 +35,11 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNDUuMTUuMTg1LjE3IiwgImhvc3QiOiAiNDUuMTUuMTg1LjE3IiwgImlkIjogImM1MDNhOTZhLWEyZjUtNDg0Ny1hMzFmLTIwYzE3ZWNmM2JlNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBvcnQiOiA4MCwgInBzIjogIkJyYXppbCIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGM0NTVjOWYxOWFhM2E1@57.129.94.79:11206#France
-vmess://eyJ2IjoiMiIsInBzIjoid3d3Ljg1bGEuY29t8J+Hq/Cfh7dGUsKyXzh8MC4yTUIvc3xHUFR8WHxTdWNjZWVkfFvljp/nlJ985L2P5a6F5ouo5Y+3XSIsImFkZCI6IjIwMDE6YmM4OjMyZDc6MzAyOjoxMCIsInBvcnQiOiI0NDU3OSIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJmcCI6IiIsInBhdGgiOiIvP2VkPTIwNDhAVjJSYXlfaGlkZGlmeTEwLS1odHRwczovL3QubWUvVjJSYXlfaGlkZGlmeTEwLS1WMlJheV9oaWRkaWZ5MTAtLVYyUmF5X2hpZGRpZnkxMC0tVjJSYXlfaGlkZGlmeTEwLS1WMlJheV9oaWRkaWZ5MTAtLVYyUmF5X2hpZGRpZnkxMC0tVjJSYXlfaGlkZGlmeTEwLS1WMlJheV9oaWRkaWZ5MTAtLVYyUmF5X2hpZGRpZnkxMC0tVjJSYXlfaGlkZGlmeTEwLS1WMlJheV9oaWRkaWZ5MTAtLVYyUmF5X2hpZGRpZnkxMC0tVjJSYXlfaGlkZGlmeTEwLS1WMlJheV9oaWRkaWZ5MTAtLVYyUmF5X2hpZGRpZnkxMC0tVjJSYXlfaGlkZGlmeTEwLS1WMlJheV9oaWRkaWZ5MTAtLVYyUmF5X2hpZGRpZnkxMC0tVjJSYXlfaGlkZGlmeTEwLS1WMlJheV9oaWRkaWZ5MTAtLVYyUmF5X2hpZGRpZnkxMC0tVjJSYXlfaGlkZGlmeTEwLS1WMlJheV9oaWRkaWZ5MTAtLVYyUmF5X2hpZGRpZnkxMC0tVjJSYXlfaGlkZGlmeTEwLS1WMlJheV9oaWRkaWZ5MTAtLVYyUmF5X2hpZGRpZnkxMC0tVjJSYXlfaGlkZGlmeTEwLS1WMlJheV9oaWRkaWZ5MTAtLWh0dHBzOi8vdC5tZS9WMlJheV9oaWRkaWZ5MTAifQ==
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@149.33.19.105:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#United+Arab+Emirates
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@jp.111000.cc.cd:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&sni=sni.111000.dynv6.net&type=ws#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#The+Netherlands
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.20:10369?allowInsecure=0&sni=fra35.chasem2026sud.com#United+Kingdom
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>
