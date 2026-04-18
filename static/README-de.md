@@ -35,11 +35,11 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#UK
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YTEwNmFmYzMzZWFhMjYx@148.113.139.160:46534#Kanada
-vmess://eyJ2IjogIjIiLCAicHMiOiAiSXJhbiIsICJhZGQiOiAiMTUxLjI0Mi4xODAuOTEiLCAicG9ydCI6ICIzMDgxMiIsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.165.231.25:990#Ecuador
+trojan://trojan@152.53.200.98:8444?security=tls&sni=jflsjlaf.pages.dev&insecure=0&allowInsecure=0&type=ws&host=jflsjlaf.pages.dev&path=%2F%2F#%C3%96sterreich
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.199:8080#Niederlande
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@79.127.200.169:990#Kanada
+trojan://hCjWaBe5vTkewfiljOL=9FS9DYg0c09c.t@81.29.149.240:18390?allowInsecure=0&sni=osl9.solidly.click#Niederlande
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTFlYWZkZmZkOWE4MWUw@154.205.134.155:11651#Seychellen
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
