@@ -35,11 +35,11 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTAzLjIyOS4xMjQuMyIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiMjkyZTljOTAtMjViMy00ZmY1LWI5OGEtOWVmNTg3NzcxNGFiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDIwNTIxLCAicHMiOiAiVGFpd2FuIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030#United+Kingdom
-trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@www.shopify.com:2053?security=tls&sni=cm22-bgphhh.pages.dev&type=ws&host=cm22-bgphhh.pages.dev&path=%2F#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007117fb8.cybervena.com:50099#Taiwan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.124:8080#United+Kingdom
+vmess://eyJhZGQiOiAiY2YuMDkwMjI3Lnh5eiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiMjkwY2M2OTEtM2FjNi00Mzg3LTk4YTEtMjVjOGViOGNhMmVhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInNnYWwuZGFncmF0ZS5ldS5vcmciLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjg3MWRiMDJlNWY3ZTJm@57.129.35.242:11201#France
+trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F#Austria
+vmess://eyJ2IjoiMiIsInBzIjoid3d3Ljg1bGEuY29t8J+Hq/Cfh7dGUsKyXzEzfDAuMk1CL3N8R1BU4oG6fFRLfFh8U3VjY2VlZHxb5Y6f55SffOS9j+WuheaLqOWPt10iLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwb3J0IjoiNDQ1NzkiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwiZnAiOiIiLCJwYXRoIjoiLz9lZD0yMDQ4SGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OIiwiaG9zdCI6IjIwMDE6YmM4OjMyZDc6MzAyOjoxMCJ9
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

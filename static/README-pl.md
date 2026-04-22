@@ -35,11 +35,11 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTA3LjE3NS45MS4xMTgiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjFiYjFmOTVmLTc0MjUtNDQ0Mi05M2Y3LThmYzFiZDFhMjAwMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdjJyYXktd2lzcCIsICJwb3J0IjogNDQzLCAicHMiOiAiQ2FuYWRhIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-trojan://humanity@104.17.150.76:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@111.248.66.243:50099#Taiwan
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#United+States
-trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#United+States
+vmess://eyJhZGQiOiAibjE3NjEyOTY4ODkuNHU5bWEuaWN1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm4xNzYxMjk2ODg5LjR1OW1hLmljdSIsICJpZCI6ICI1ZmRjNmFiMS04MzQ3LTQxMWMtOWJiZi1mYmMzZWE4NTNkMmYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIkhvbmcgS29uZyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+vmess://eyJhZGQiOiAiNDcuMjQzLjEzNS43NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMTM3NTk4NWUtMzM0YS00YzI1LThmNjQtNTJhMTgyYmM4MDM3IiwgImluc2VjdXJlIjogIjEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL05vdGlmX0NoYXQiLCAicG9ydCI6IDU1MTg1LCAicHMiOiAiSG9uZyBLb25nIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAibmFtZSI6ICI+PkBmbHl2MnJheTo6SEs6OkhLOjpISzo6SEs6OkhLIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#United+Kingdom
+trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?security=tls&sni=nl-4.tr202507.com#The+Netherlands
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

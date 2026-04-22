@@ -35,11 +35,11 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@111.248.106.149:50099#Taiwan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.143.32:990#Peru
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMGY5MGFmOTJiNmMxYTc0@141.95.109.94:11201#Fran%C3%A7a
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.1.230:990#M%C3%A9xico
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@178.17.51.45:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#Iraque
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.205.146.153:990#Ilhas+Seychelles
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.30.69:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#Holanda
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=ads.x5.ru#Alemanha
+vmess://eyJhZGQiOiAiNDUuOTIuNzAuMjM2IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIyMzI0IiwgInBzIjogIkl0XHUwMGUxbGlhIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiSXJcdTAwZTMiLCAiYWRkIjogInYzMy5oZGFjZC5jb20iLCAicG9ydCI6ICIzMDgzMyIsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAiYWlkIjogMiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJhdXRvIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>

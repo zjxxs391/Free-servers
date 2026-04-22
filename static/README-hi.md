@@ -35,11 +35,11 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080#The+Netherlands
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#United+States
-trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F%3FBIA_TELEGRAM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29#Spain
-trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls&sni=creativecommons.org#T%C3%BCrkiye
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#United+Kingdom
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#South+Korea
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201#France
+vmess://eyJ2IjoiMiIsInBzIjoid3d3Ljg1bGEuY29t8J+Hq/Cfh7dGUsKyXzF8MC4zTUIvc3xUS3xORnxYIiwiYWRkIjoiMjAwMTpiYzg6MzJkNzozMDI6OjE3IiwicG9ydCI6IjQ0NTc5IiwiaWQiOiI4ZTM0ZTE3MC0xM2FlLTQ4OTItOWQyMC0wNTk2MmFjYzlmODQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsImZwIjoiIiwicGF0aCI6Ii8/QklBX1RFTEVHUkFNQEFaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxIiwiaG9zdCI6IkFaRVJCLk5FVCJ9
+vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTguMTQ3IiwgImFpZCI6IDAsICJob3N0IjogImlubmEuY2ZkIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogNDQzLCAicHMiOiAiQ2FuYWRhIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

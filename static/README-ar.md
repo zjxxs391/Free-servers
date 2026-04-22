@@ -35,11 +35,11 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#The+Netherlands
-trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F%3FBIA_TELEGRAM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29#Spain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#Ukraine
-vmess://eyJhZGQiOiAidmMuZmx5LmRldiIsICJhaWQiOiAzMiwgImhvc3QiOiAidmMuZmx5LmRldiIsICJpZCI6ICIzNTM3OTIxOS02NTM1LTRmMmUtYTRmZS0zZTQ0ZjYxZTBlZWUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZjIiwgInBvcnQiOiA0NDMsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogInZjLmZseS5kZXYifQ==
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#The+Netherlands
+trojan://strong-secret-pass-777@94.131.105.125:4443?security=tls&sni=94.131.105.125#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#Ukraine
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiNjYuMTYzLjExNy41OCIsICJwb3J0IjogIjIyMzI0IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+trojan://trojan@152.53.200.167:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F#Austria
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.30:990#Morocco
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

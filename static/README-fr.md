@@ -35,11 +35,11 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@156.244.8.155:5004#%C3%89tats+Unis
-trojan://413fdb10-a596-4e7c-b081-54243d252894@85.211.192.237:13388?security=tls&sni=www.baidu.com#Royaume-Uni
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990#Maroc
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVHVycXVpZSIsICJhZGQiOiAiNDUuODkuNTIuMjA3IiwgInBvcnQiOiAzOTY1MSwgImlkIjogImFjNGMxMmM1LTQ1ZjItNDM5OC1hNzE4LTk5ODM5NDFlZGUyYiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgInRscyI6ICIiLCAiYWxwbiI6ICIifQ==
-trojan://trojan@152.53.60.198:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F#Autriche
+vmess://eyJhZGQiOiAiMzguMTA3LjIzNC41NyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcy8iLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdTAwYzl0YXRzIFVuaXMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw=@89.44.197.181:31348#Bulgarie
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.154.204.7:990#Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#Pays-Bas
+vmess://eyJ2IjogIjIiLCAicHMiOiAiSXJhbiIsICJhZGQiOiAiMTUxLjI0Mi4xODAuOTEiLCAicG9ydCI6ICIzMDgxMiIsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>
