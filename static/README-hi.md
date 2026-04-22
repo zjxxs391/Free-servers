@@ -35,11 +35,11 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-trojan://strong-secret-pass-777@103.231.73.181:4443?security=tls&sni=103.231.73.181#Japan
-trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Austria
-vmess://eyJ2IjoiMiIsInBzIjoid3d3Ljg1bGEuY29t8J+Hq/Cfh7dGUsKyXzF8MC4zTUIvc3xUS3xORnxYIiwiYWRkIjoiMjAwMTpiYzg6MzJkNzozMDI6OjE3IiwicG9ydCI6IjQ0NTc5IiwiaWQiOiI4ZTM0ZTE3MC0xM2FlLTQ4OTItOWQyMC0wNTk2MmFjYzlmODQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsImZwIjoiIiwicGF0aCI6Ii8/QklBX1RFTEVHUkFNQEFaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxIiwiaG9zdCI6IkFaRVJCLk5FVCJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.165.231.25:990#Ecuador
-trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@www.shopify.com:2053?security=tls&sni=cm22-bgphhh.pages.dev&type=ws&host=cm22-bgphhh.pages.dev&path=%2F#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGM0NTVjOWYxOWFhM2E1@57.129.94.79:11206#France
+vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTguMTQ3IiwgImFpZCI6IDAsICJob3N0IjogImlubmEuY2ZkIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogNDQzLCAicHMiOiAiQ2FuYWRhIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+vmess://eyJhZGQiOiAiMTAzLjIyOS4xMjQuMyIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiMjkyZTljOTAtMjViMy00ZmY1LWI5OGEtOWVmNTg3NzcxNGFiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDIwNTIxLCAicHMiOiAiVGFpd2FuIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+trojan://humanity@104.21.40.34:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#Latvia
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
