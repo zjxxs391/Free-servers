@@ -35,11 +35,11 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.240.185:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#Serbien
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVVNBIiwgImFkZCI6ICIyYTE0Ojc1ODQ6ZDBhMjo6YSIsICJwb3J0IjogIjIzNDU2IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJiZDQ4ZTBhYy1lOTBlLTQ0NTEtYTRmMi1hYmYwNjFjZmI4OTAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2FsdmluOTk5OS5jb20iLCAiaG9zdCI6ICJ3d3cuYmluZy5jb20iLCAidGxzIjogIiJ9
-trojan://187dda4498be9ac4f28db939d5940185@160.16.124.17:4674?security=tls&sni=www.nintendogames.net#Japan
-trojan://humanity@www.multiplydose.com:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#USA
-vmess://eyJhZGQiOiAiNDcuMjQ0LjEyMC4xOTciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjg0NWU2YjA4LTI5MTktNDI5MC1hZGUwLTVkYzdkY2VhNTljYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInBvcnQiOiA0NDg2NywgInBzIjogIkhvbmdrb25nIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@170.168.102.234:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODMyMmU0YjkzNDg3MGI2@154.26.156.99:47386#Australien
+trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls&sni=nl-4.tr202512.com#Niederlande
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWjg3YW1QcGRHN0t1V002MmJLdG0xS0hvb3d1VmpuVjhDS3RxNjUzeW1IY2cyZFBZY1BKZm5hUTYxc3R1QWpyMlppTERhcUg1Nlhwa3hFWXV3RHp6UnJNV2llZWJXR3Q=@mx2.drawnrisha.one:55988#UK
+trojan://187dda4498be9ac4f28db939d5940185@160.16.132.38:29370?security=tls&sni=www.nintendogames.net#Japan
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
