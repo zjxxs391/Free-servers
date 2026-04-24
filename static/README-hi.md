@@ -35,11 +35,11 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#United+States
-vmess://eyJ2IjoiMiIsInBzIjoid3d3Ljg1bGEuY29t8J+Hq/Cfh7dGUsKyXzEzfDAuMk1CL3N8R1BU4oG6fFRLfFh8U3VjY2VlZHxb5Y6f55SffOS9j+WuheaLqOWPt10iLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwb3J0IjoiNDQ1NzkiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwiZnAiOiIiLCJwYXRoIjoiLz9lZD0yMDQ4SGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OIiwiaG9zdCI6IjIwMDE6YmM4OjMyZDc6MzAyOjoxMCJ9
-vmess://eyJhZGQiOiAibjE3NTMzNTYzNzguNHU5bWEuaWN1IiwgImFpZCI6IDAsICJob3N0IjogIm4xNzUzMzU2Mzc4LjR1OW1hLmljdSIsICJpZCI6ICIzN2IyMDYzOS0wZDZlLTQ2ZjItOWRiNS00NzIyMDFiMTBjZGQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAicHMiOiAiSG9uZyBLb25nIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAibjE3NTMzNTYzNzguNHU5bWEuaWN1IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIn0=
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.147.29:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&sni=sni.111000.dynv6.net&type=ws#United+States
-trojan://trojan@103.136.70.115:443?path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&insecure=1&host=jflsjlaf.pages.dev&type=ws&allowInsecure=1&sni=jflsjlaf.pages.dev#Bangladesh
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#Latvia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VGhEMUFnd1hjOFN0cHA3aEVvaExh@139.59.87.22:16970#India
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@jp.111000.cc.cd:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&sni=sni.111000.dynv6.net&type=ws#United+States
+trojan://868ecdaf6aed618ec98cf78585672b2b@160.16.132.38:4019?security=tls&sni=www.nintendogames.net#Japan
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#South+Korea
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
