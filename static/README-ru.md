@@ -35,11 +35,11 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-vmess://eyJhZGQiOiAiZjhjMzg0MjgtdDZyNXMwLXQ4anpnMi0xaGQ3di5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAiYWlkIjogMiwgImhvc3QiOiAiZjhjMzg0MjgtdDZyNXMwLXQ4anpnMi0xaGQ3di5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAiaWQiOiAiZjczYzY0YmMtOWU4Yy0xMWVjLWJkN2MtZjIzYzkxM2M4ZDJiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDgwLCAicHMiOiAiXHUwNDEzXHUwNDNlXHUwNDNkXHUwNDNhXHUwNDNlXHUwNDNkXHUwNDMzIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMGY5MGFmOTJiNmMxYTc0@141.95.109.94:11201#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
-vmess://eyJhZGQiOiAiMTcyLjExMS4xNDYuNjQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiIiwgImlkIjogIjA1YjhjNzgzLTdmNTktNDdmOS05OTIzLTA2YTQ2NTY3OWY2YSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHUwNDJmXHUwNDNmXHUwNDNlXHUwNDNkXHUwNDM4XHUwNDRmIiwgInNjeSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
-trojan://BxceQaOe@58.152.25.253:443?allowInsecure=0&sni=t.me/ripaojiedian#%D0%93%D0%BE%D0%BD%D0%BA%D0%BE%D0%BD%D0%B3
-trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.106.99:4674?security=tls&sni=www.nintendogames.net#%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.239.4:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%D0%A7%D0%B5%D1%85%D0%B8%D1%8F
+trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#%D0%A1%D0%A8%D0%90
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.72.205:4674?security=tls&sni=www.nintendogames.net#%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F
+vmess://eyJhZGQiOiAiY2Q1YTRlNzYtdDcwZjQwLXQ3ZHY4bC0xc3pndi5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAiYWlkIjogMiwgImhvc3QiOiAiY2Q1YTRlNzYtdDcwZjQwLXQ3ZHY4bC0xc3pndi5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAiaWQiOiAiNDQ4YWZmMjQtYjJlNi0xMWVmLTk3ZTAtZjIzYzkxNjRjYTVkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDgwLCAicHMiOiAiXHUwNDEzXHUwNDNlXHUwNDNkXHUwNDNhXHUwNDNlXHUwNDNkXHUwNDMzIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogImNkNWE0ZTc2LXQ3MGY0MC10N2R2OGwtMXN6Z3YuaGt0LmdvdG9jaGluYXRvd24ubmV0In0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw=@89.44.197.181:31348#%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>
