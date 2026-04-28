@@ -35,11 +35,11 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#Reino+Unido
-trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F%3FBIA_TELEGRAM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29#Espa%C3%B1a
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#Estados+Unidos
-trojan://trojan@152.53.200.167:8444?allowInsecure=0&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#Austria
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#Ucrania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@nbmrcg0034686rw.cybervena.com:50099#Taiw%C3%A1n
+trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#Filipinas
+trojan://strong-secret-pass-777@103.231.73.181:4443?security=tls&sni=103.231.73.181#Jap%C3%B3n
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#Sud%C3%A1frica
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>

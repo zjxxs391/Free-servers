@@ -35,15 +35,15 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.20:10369?allowInsecure=0&sni=fra35.chasem2026sud.com#United+Kingdom
-trojan://1234567890@209.38.194.141:443?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#Germany
-trojan://1234567890@64.188.70.233:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#United+States
-vmess://eyJhZGQiOiAiMzguMTA3LjIzNC41NyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcy8iLCAicG9ydCI6ICI4MCIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
-trojan://1234567890@59.2.96.181:22335?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#South+Korea
-trojan://1234567890@220.95.85.46:24289?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#South+Korea
-trojan://1234567890@64.188.115.82:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg0011499tl.cybervena.com:50099#Taiwan
-trojan://1234567890@194.5.62.79:443?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#Bulgaria
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaG9sU3R5SEw3RGhyZXdLYnBRYTIw@185.176.221.72:24637#Latvia
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQXVzdHJhbGlhIiwgImFkZCI6ICJlZmFuLmRuc2VmYW4wNDg4MS5jb20iLCAicG9ydCI6ICI3NzU0IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI3Y2Q5NmRiZS1lY2VjLTQ5MzctOWUwNS04N2FiNzBhZjJmMzAiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJlZmFuLmRuc2VmYW4wNDg4MS5jb20iLCAidGxzIjogIiJ9
+trojan://1234567890@164.92.200.68:443?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#United+Kingdom
+trojan://1234567890@93.123.84.194:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#Bulgaria
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#United+Arab+Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRVG1MVmlVNFZFbXV3Yk94VXc0SVhk@107.172.250.161:59556#Canada
+trojan://1234567890@220.124.181.77:18081?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#South+Korea
+trojan://1234567890@220.77.18.195:36814?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#South+Korea
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

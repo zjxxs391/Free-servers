@@ -35,11 +35,11 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.124:8080#Royaume-Uni
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#Royaume-Uni
-vmess://eyJhZGQiOiAiMTA3LjE3NS45MS4xMTgiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjFiYjFmOTVmLTc0MjUtNDQ0Mi05M2Y3LThmYzFiZDFhMjAwMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdjJyYXktd2lzcCIsICJwb3J0IjogNDQzLCAicHMiOiAiQ2FuYWRhIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@38.180.176.115:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#Pays-Bas
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007134n4g.cybervena.com:50099#Ta%C3%AFwan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#Afrique+du+Sud
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#Afrique+du+Sud
+trojan://humanity@v3.dabache.top:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%C3%89tats+Unis
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#Royaume-Uni
+trojan://187dda4498be9ac4f28db939d5940185@160.16.132.38:4674?security=tls&sni=www.nintendogames.net#Japon
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>

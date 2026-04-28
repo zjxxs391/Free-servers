@@ -35,15 +35,15 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#United+Kingdom
-trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.20:10369?allowInsecure=0&sni=fra35.chasem2026sud.com#United+Kingdom
-trojan://1234567890@195.133.94.19:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Czechia
-trojan://BxceQaOe@58.152.53.22:443?security=tls&sni=t.me/ripaojiedian#Hong+Kong
-vmess://eyJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgImFkZCI6ICJ2MTAuaGRhY2QuY29tIiwgInBvcnQiOiAiMzA4MDciLCAidHlwZSI6ICJub25lIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogInYxMC5oZGFjZC5jb20iLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRVG1MVmlVNFZFbXV3Yk94VXc0SVhk@107.172.250.161:59556#Canada
-trojan://1234567890@178.104.79.228:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@1.161.245.168:50099#Taiwan
-vmess://eyJhZGQiOiAiNDUuOTIuNzAuMjM2IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIyMzI0IiwgInBzIjogIkl0YWx5IiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.59:990#United+States
+trojan://1234567890@159.69.223.33:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=/?https://t.me/WangCai2🇨🇳=&sni=kfm-bn0.pages.dev&type=ws#Germany
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#T%C3%BCrkiye
+trojan://1234567890@121.132.124.22:15000?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#South+Korea
+trojan://1234567890@134.209.224.221:2087?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#Germany
+trojan://1234567890@213.176.78.192:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#Iran
+trojan://1234567890@104.248.136.46:2087?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#Germany
+trojan://1234567890@46.101.246.237:2083?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@203.23.128.92:990#Hong+Kong
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>

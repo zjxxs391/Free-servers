@@ -35,15 +35,15 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
+trojan://1234567890@195.133.94.19:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Czechia
+trojan://1234567890@46.224.209.116:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#Iran
+trojan://1234567890@64.188.89.147:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United+States
+trojan://1234567890@152.53.119.132:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/#Austria
+vmess://eyJhZGQiOiAiY2YuMDkwMjI3Lnh5eiIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZ2FsLmRhZ3JhdGUuZXUub3JnIiwgImlkIjogIjI5MGNjNjkxLTNhYzYtNDM4Ny05OGExLTI1YzhlYjhjYTJlYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAic2dhbC5kYWdyYXRlLmV1Lm9yZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byJ9
 trojan://1234567890@77.239.127.77:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United+Kingdom
-trojan://1234567890@220.124.181.251:12300?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#South+Korea
-trojan://1234567890@144.31.85.72:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#United+States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#Bulgaria
-vmess://eyJhZGQiOiAiMTU4LjUxLjEyMS42MyIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZXJpYnVzLm9yZyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAibGlua3Z3cyIsICJwb3J0IjogNDQzLCAicHMiOiAiQ2FuYWRhIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogInNlcmlidXMub3JnIn0=
-trojan://1234567890@185.219.84.221:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#United+Kingdom
-trojan://humanity@172.64.152.23:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#United+States
-trojan://1234567890@144.31.116.8:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United+States
+ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw==@chengbai02.ascwt179.com:13223#Hong+Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.59.243.6:990#Singapore
+vmess://eyJhZGQiOiAiNDUuOTIuNzAuMjM2IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIyMzI0IiwgInBzIjogIkl0YWx5IiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

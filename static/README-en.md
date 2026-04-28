@@ -35,15 +35,15 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2Fassignment#United+States
-trojan://1234567890@178.17.48.78:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Iraq
-trojan://1234567890@138.124.49.137:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/#Canada
-trojan://1234567890@220.90.53.189:32677?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#South+Korea
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#The+Netherlands
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#South+Africa
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiMzguOTEuMTA3LjQ5IiwgInBvcnQiOiAiMTgwMDAiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgImFpZCI6IDAsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiYXV0byIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+trojan://1234567890@84.200.192.87:8443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Germany
+vmess://eyJhZGQiOiAidjYuaGRhY2QuY29tIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgS2luZ2RvbSIsICJwb3J0IjogMzA4MDYsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAiYWlkIjogIjIiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#United+Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#The+Netherlands
-trojan://1234567890@134.122.84.25:2096?allowInsecure=1&fp=chrome&host=kfm-bn0.pages.dev&path=/?https://t.me/WangCai2🇨🇳=&sni=kfm-bn0.pages.dev&type=ws#Germany
-vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4yMjciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogNDQzLCAicHMiOiAiQ2FuYWRhIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.118.10:8388#United+States
+trojan://1234567890@152.53.119.132:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/#Austria
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

@@ -35,15 +35,15 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#United+States
-trojan://1234567890@57.129.47.47:8443?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#France
-trojan://1234567890@59.2.96.181:22335?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#South+Korea
-trojan://1234567890@194.164.198.156:8443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#United+Kingdom
-trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#Austria
-vmess://eyJhZGQiOiAiNjcuMjIwLjcyLjIzNyIsICJhaWQiOiAiMSIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMjMyNCIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#United+Kingdom
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#United+States
+trojan://1234567890@144.31.116.8:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#United+States
+trojan://1234567890@144.31.216.160:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@203.23.128.92:990#Hong+Kong
+trojan://1234567890@220.122.42.198:10995?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#South+Korea
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIEtpbmdkb20iLCAiYWRkIjogIjgyLjE5OC4yNDYuNDYiLCAicG9ydCI6ICIxODAiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiNDcuOTAuMjQ0LjE1MyIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICI2NWUyYTk4NS1hZDIwLTQ0ODYtYTdlYy1iNjdiMjBlZTU2YWYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzIiwgInBvcnQiOiAiODQ0MyIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+trojan://1234567890@104.248.136.46:2083?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#Taiwan
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

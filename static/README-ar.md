@@ -35,15 +35,15 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-trojan://1234567890@144.31.116.8:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United+States
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#The+Netherlands
-trojan://1234567890@59.16.213.86:12300?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#South+Korea
-trojan://humanity@www.ignitelimit.com:443?allowInsecure=1&path=%2Fassignment&type=ws#United+States
-trojan://1234567890@220.124.181.77:18081?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#South+Korea
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.59.243.6:990#Singapore
-trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#United+States
-trojan://1234567890@51.195.91.135:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=/?https://t.me/WangCai2🇨🇳=&sni=kfm-bn0.pages.dev&type=ws#France
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#Germany
+trojan://1234567890@159.195.44.151:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Denmark
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#United+States
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@160.119.251.210:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#South+Africa
+trojan://1234567890@104.248.132.134:2053?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#Germany
+vmess://eyJhZGQiOiAidXNhYXBwMS5qaXN1eXVuLnRvcCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ1c2FhcHAxLmppc3V5dW4udG9wIiwgImlkIjogIjRiODBhYTg2LTQzNTQtNDBiYi1kMmEzLTQ3MTI2Y2ZmMGJlYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdXNhdm0iLCAicG9ydCI6ICIyMDUzIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2N5IjogImF1dG8iLCAic25pIjogInVzYWFwcDEuamlzdXl1bi50b3AiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+ss://YWVzLTI1Ni1nY206MTRDTEJhRkJxd3F4Qkp5Ng==@66.94.125.178:80#United+States
+vmess://eyJhZGQiOiAiNDcuMjQzLjEzNS43NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMTM3NTk4NWUtMzM0YS00YzI1LThmNjQtNTJhMTgyYmM4MDM3IiwgImluc2VjdXJlIjogIjEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL05vdGlmX0NoYXQiLCAicG9ydCI6IDU1MTg1LCAicHMiOiAiSG9uZyBLb25nIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAibmFtZSI6ICI+PkBmbHl2MnJheTo6SEs6OkhLOjpISzo6SEs6OkhLIn0=
+trojan://1234567890@164.90.166.120:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#The+Netherlands
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>
